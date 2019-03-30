@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">RGPD - CDV</string>
+    <string name="action_settings">Settings</string>
+    <string name="cIdentity">N° entreprise *</string>
+    <string name="cAddress">Adresse * </string>
+    <string name="cStreet">Rue</string>
+    <string name="cPostcod">Code postal</string>
+    <string name="cTown">Ville</string>
+    <string name="cPhone">Téléphone * </string>
+    <string name="cEmail">Email * </string>
+    <string name="cName">Nom - Prénom *</string>
+    <string name="cUsing_general_conditions">J \' accepte les conditions générales d\'utilisation</string>
+    <string name="cNewsletters">J\' accepte de recevoir les news letters</string>
+    <string name="cCommercial_by_mail">J\' accepte de recevoir des offres commerciales par E-Mail</string>
+    <string name="cCommercial_offers_by_sms">J\' accepte de recevoir des offres commerciales par SMS</string>
+    <string name="cCommercial_offers_by_post">J\' accepte de recevoir des offres commerciales par courier postal</string>
+    <string name="searchIdentity">Search</string>
+    <string name="save_button">Enregistrer</string>
+    <string name="clear_button">Effacer</string>
+    <string name="cEntreprise">Indiquez la raison sociale de votre entreprise *</string>
+    <string name="cSigle">Sigle</string>
+    <string name="cJuridique">
+        "L\’inscription permet de recevoir notre newsletter et les offres sur nos produits et services;\n"
+        "la base légale est l’article 6.1.a du RGPD (consentement) ;\n"
+        "les destinataires de données sont le responsable de traitement, ses services internes en charge de la gestion de la relation client,\n"
+        "les sous-traitant opérant les différentes opérations de communication, ainsi que toute personne légalement autorisée. .\n"
+        "La durée de traitement des données est limité au temps pendant lequel vous êtes inscrit à nos services de communication,\n"
+        "étant entendu que vous pouvez retirer votre consentement et vous désinscrire à tout moment.\n"
+        "Vous disposez du droit de demander au responsable du traitement l’accès aux données à caractère personnel,\n"
+        "la rectification ou l’effacement de celles-ci, ou une limitation du traitement relatif à la personne concernée,\n"
+        "ou du droit de s’opposer au traitement et du droit à la portabilité des données.\n"
+        "Le responsable du traitement est la société Ravate Professionnel Le PORT.\n"
+        "Vous avez également le droit d’introduire une réclamation auprès d’une autorité de contrôle.\n"
+        "Pour plus d'informations merci de consulter notre page de politique de confidentialité" .</string>
+    <string name="cObligatoire">* Champs obligatoires</string>
+
+</resources>
